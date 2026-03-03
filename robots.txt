@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.bogor-taroleaves.my.id/sitemap.xml
+Sitemap: https://bogortaroleaves.com/sitemap.xml
