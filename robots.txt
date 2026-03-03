@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bogor-taroleaves.my.id/sitemap.xml
