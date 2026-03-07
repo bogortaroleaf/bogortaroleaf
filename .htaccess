@@ -1,1 +1,7 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www\.bogortaroleaves\.com [NC]
+RewriteRule ^(.*)$ https://bogortaroleaves.com/$1 [L,R=301]
+
+# Custom 404 page
 ErrorDocument 404 /404.html
